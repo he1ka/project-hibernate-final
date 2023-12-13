@@ -1,1 +1,1 @@
-# project-hibernate-final
+# Final Hibernate Project
