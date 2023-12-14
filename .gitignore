@@ -1,2 +1,3 @@
 ./db/mysql-dump
 .idea
+target/
